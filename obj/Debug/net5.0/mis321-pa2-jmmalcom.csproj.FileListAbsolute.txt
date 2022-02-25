@@ -1,0 +1,16 @@
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\obj\Debug\net5.0\mis321-pa2-jmmalcom.csproj.AssemblyReference.cache
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\obj\Debug\net5.0\mis321-pa2-jmmalcom.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\obj\Debug\net5.0\mis321-pa2-jmmalcom.AssemblyInfoInputs.cache
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\obj\Debug\net5.0\mis321-pa2-jmmalcom.AssemblyInfo.cs
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\obj\Debug\net5.0\mis321-pa2-jmmalcom.csproj.CoreCompileInputs.cache
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\bin\Debug\net5.0\mis321-pa2-jmmalcom.exe
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\bin\Debug\net5.0\mis321-pa2-jmmalcom.deps.json
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\bin\Debug\net5.0\mis321-pa2-jmmalcom.runtimeconfig.json
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\bin\Debug\net5.0\mis321-pa2-jmmalcom.runtimeconfig.dev.json
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\bin\Debug\net5.0\mis321-pa2-jmmalcom.dll
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\bin\Debug\net5.0\ref\mis321-pa2-jmmalcom.dll
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\bin\Debug\net5.0\mis321-pa2-jmmalcom.pdb
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\obj\Debug\net5.0\mis321-pa2-jmmalcom.dll
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\obj\Debug\net5.0\ref\mis321-pa2-jmmalcom.dll
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\obj\Debug\net5.0\mis321-pa2-jmmalcom.pdb
+C:\source\repos\MIS321\mis321-pa2-jmmalcom\obj\Debug\net5.0\mis321-pa2-jmmalcom.genruntimeconfig.cache
