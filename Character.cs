@@ -10,6 +10,8 @@ namespace mis321_pa2_jmmalcom
         public int AttackStrength{get; set;}
         public int DefensivePower{get; set;}
         public string CharacterName{get; set;}
+        public int LostGame{get; set;}
+        public int WonGame{get; set;}
         public IAttack attackBehavior {get; set;}
 
 
@@ -19,6 +21,8 @@ namespace mis321_pa2_jmmalcom
             MaxPower = RandomNumber(100);
             AttackStrength = RandomNumber(MaxPower);
             DefensivePower = RandomNumber(MaxPower);
+            WonGame = 0;
+            LostGame = 0;
 
         }
 

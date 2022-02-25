@@ -12,7 +12,7 @@ namespace mis321_pa2_jmmalcom
             {
                 Console.WriteLine($"{player1.Name} gets to go first.");
                 double attackDamage = player1.attackBehavior.Attack(player1, player2);
-                Console.WriteLine($"{player1.Name} your attack strength is {player1.AttackStrength}. You dealt {Math.Round(attackDamage)} damage to the opponent {player1.Name}.");
+                Console.WriteLine($"{player1.Name} your attack strength is {player1.AttackStrength}. You dealt {Math.Round(attackDamage)} damage to the opponent {player2.Name}.");
                 Console.WriteLine($"{player2.Name} your current health is {Math.Round(player2.Health)}. Your defense power is {player2.DefensivePower}.\nBased off your health, it will take {Math.Round(player2.Health/attackDamage)} hits before you lose.");
                 count ++;
             }
@@ -46,11 +46,15 @@ namespace mis321_pa2_jmmalcom
 
             if(player1.Health > 0)
             {
+                player1.WonGame ++;
+                player2.LostGame ++;
                 return player1;
             }
 
             if(player2.Health > 0)
             {
+                player2.WonGame ++;
+                player1.LostGame++;
                 return player2;
             }
             
