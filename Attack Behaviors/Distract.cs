@@ -34,7 +34,7 @@ namespace mis321_pa2_jmmalcom
             }
             else
                Console.WriteLine("Defender blocked your attack");
-               defender.Health -= defender.Health - 5.00;
+               defender.Health = defender.Health - 5.00;
                return 5.00; 
             
 
